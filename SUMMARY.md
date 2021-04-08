@@ -1,6 +1,10 @@
 # Table of contents
 
-- [Initial page](README.md)
+- [Nova 前端组](README.md)
+
+## 开始
+
+- [如何使用 Gitbook]()
 
 ## 学习路线
 
