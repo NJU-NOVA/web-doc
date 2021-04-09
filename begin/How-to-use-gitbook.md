@@ -70,3 +70,8 @@ git push -u origin master
 如果你不知道如何使用 markdown，请看[markdown 简易教程](../utils/how-to-use-markdown.md)
 
 ## 为什么要使用 Gitbook
+
+1. 方便地使用 Git 进行合作
+2. 使用方式足够简单易用
+3. 使用方式更符合程序员习惯
+4. 免费部署，可安心部署到公网访问
