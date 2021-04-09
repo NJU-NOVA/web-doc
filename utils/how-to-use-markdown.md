@@ -41,13 +41,13 @@ description: 简短的 markdown 使用教程
 
 ## 代码块
 
-```
-```
+````
+```js
 console.log("this is a code block");
 ```
-```
+````
 
-```
+```js
 console.log("this is a code block");
 ```
 
