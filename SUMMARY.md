@@ -8,9 +8,14 @@
 
 ## 学习路线
 
-- [eg1]()
+- [基础](/learning-path/readme.md)
+  - [eg1]()
 
 ## 前端活动记录
 
 - [In 2021]()
   - [Week 6](/record/Week6.md)
+
+## 工具
+
+- [markdown 简易教程](/utils/how-to-use-markdown.md)
