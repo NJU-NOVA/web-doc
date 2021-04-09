@@ -58,21 +58,29 @@ console.log("this is a code block");
 **bold**
 _italic_
 ~strikethrough~
+`backticks`
 ```
 
 **bold**
+
 _italic_
+
 ~strikethrough~
+
+`backticks`
 
 ## 列表
 
 ```
 有序列表
+
 1. 111
 2. 222
+
 无序列表
 - 11
 - 22
+
 任务列表
 - [ ] todo1
 - [x] todo2
@@ -82,11 +90,14 @@ _italic_
 
 1. 111
 2. 222
-   无序列表
+
+无序列表
 
 - 11
 - 22
-  任务列表
+
+任务列表
+
 - [ ] todo1
 - [x] todo2
 
@@ -105,3 +116,15 @@ Hello world
 {% endhint %}
 
 style 共有 info, success, danger & warning 四种取值
+
+{% hint style="success" %}
+Hello world
+{% endhint %}
+
+{% hint style="danger" %}
+Hello world
+{% endhint %}
+
+{% hint style="warning" %}
+Hello world
+{% endhint %}
