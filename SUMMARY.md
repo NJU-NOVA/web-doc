@@ -9,7 +9,7 @@
 ## 学习路线
 
 - [基础](/learning-path/readme.md)
-  - [eg1]()
+  - [eg1 HTML](/learning-path/basic/html.md)
 
 ## 前端活动记录
 
