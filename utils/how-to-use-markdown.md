@@ -56,15 +56,12 @@ console.log("this is a code block");
 ```
 **bold**
 _italic_
-~strikethrough~
 `backticks`
 ```
 
 **bold**
 
 _italic_
-
-~strikethrough~
 
 `backticks`
 
