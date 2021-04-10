@@ -19,3 +19,4 @@
 ## 工具
 
 - [markdown 简易教程](/utils/how-to-use-markdown.md)
+- [图床测试](/utils/imgtest.md)
