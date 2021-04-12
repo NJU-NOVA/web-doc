@@ -10,4 +10,8 @@ description: 找工作！
 
 前端面试必备，代码手写问题，比如手写 Promise、深拷贝...
 
-你可以在[这个仓库查看代码](https://github.com/NJU-NOVA/FindJob)
+你可以在[这个仓库查看代码](https://github.com/NJU-NOVA/FindJob/DemandCode)
+
+## 面试题知识图谱
+
+简易知识图谱，[在这里查看](https://github.com/NJU-NOVA/FindJob/tree/master/KnowledgeMap)
