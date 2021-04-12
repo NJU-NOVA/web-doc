@@ -25,6 +25,10 @@
 - [In 2021]()
   - [Week 6](/record/Week6.md)
 
+## 找工作
+
+- [介绍](/job/readme.md)
+
 ## 工具
 
 - [markdown 简易教程](/utils/how-to-use-markdown.md)
